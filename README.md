@@ -1,7 +1,13 @@
-## Getting Started
+# famousdoctrine.fm
 
-First, run the development server:
+Homepage for the new age crypto printing press
+
+## Development
 
 ```bash
 yarn dev
 ```
+
+## Author
+ 
+Famous Doctrine LLC
