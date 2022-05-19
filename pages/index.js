@@ -35,7 +35,7 @@ export default function Home() {
           </button>
         </a>
 
-        <a href="mailto:famousdoctrine000@gmail.com">
+        <a href="mailto:info@famousdoctrine.fm">
           <div className={styles.contact}>
             <span>Contact Me</span>
             <Image 
@@ -51,10 +51,13 @@ export default function Home() {
       <footer className={styles.footer}>
         <div className={styles.footerContent}>
           <p className={styles.footerTitle}>Contact</p>
-          <span className={styles.footerInfo}>+1 (401) 373-0001</span>
+          <span className={styles.footerInfo}><a href="tel:+1-401-373-0001">tel:+1-401-373-0001</a></span>
           <br />
           <br />
-          <span className={styles.footerInfo}>famousdoctrine000@gmail.com</span>
+          <span className={styles.footerInfo}><a href="fax:+1-401-223-2642">fax:+1-401-223-2642</a></span>
+          <br />
+          <br />
+          <span className={styles.footerInfo}>info@famousdoctrine.fm</span>
           <br />
           <br />
           <span className={styles.footerInfo}>
