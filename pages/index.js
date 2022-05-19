@@ -53,12 +53,9 @@ export default function Home() {
           <p className={styles.footerTitle}>Contact</p>
           <span className={styles.footerInfo}><a href="tel:+1-401-373-0001">tel:+1-401-373-0001</a></span>
           <br />
-          <br />
           <span className={styles.footerInfo}><a href="fax:+1-401-223-2642">fax:+1-401-223-2642</a></span>
           <br />
-          <br />
-          <span className={styles.footerInfo}>info@famousdoctrine.fm</span>
-          <br />
+          <span className={styles.footerInfo}><a href="mailto:info@famousdoctrine.fm">info@famousdoctrine.fm</a></span>
           <br />
           <span className={styles.footerInfo}>
             1007 Ten Rod Rd <br />
