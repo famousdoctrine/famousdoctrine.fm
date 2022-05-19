@@ -26,7 +26,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Bringing you what's hot in crypto!
+	  {"Bringing you what's hot in crypto!"}
         </p>
 
         <a href="#">
